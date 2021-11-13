@@ -1,3 +1,5 @@
 # isomer_intuition
+The aim of this notebook is to help some physical intuition or understanding of the back and forth transitions between the ground and isomeric state, focusing on Kr85. We chose this specific isotope since it is a branching point in s-process nucleosynthesis. The notebook will allow you to study your own species, with instructions enclosed. To utilize the notebook, simply download it your machine, or for convenience, simply click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaadt7/isomer_intuition/blob/master/isomer_intuition.ipynb) to load it on google colab; google account required. or if you prefer, you can also load it in binder, simply click here. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaadt7/isomer_intuition.git/HEAD)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaadt7/isomer_intuition/blob/master/isomer_intuition.ipynb)
+## Resources
+For a brief refresher or a simplistic introduction to isomers, you can read up here: [Nuclear Isomer wiki page](https://en.wikipedia.org/wiki/Nuclear_isomer)
